@@ -1,0 +1,84 @@
+.corpo-body{
+    background-image: url(img/foto1.jpg);
+    background-size: cover;
+}
+.estudio{
+    background-image: url(img/fundo2.jpg);
+    background-size: cover;
+}
+.caixa1{
+    border-radius: 20px;
+    margin: 30%;
+    background-color: #b34747;
+    padding: 20px;
+}
+input{
+    outline: none;  
+    padding: 5px;
+    border-radius: 20px;
+}
+button{
+    outline: none;
+    border-radius: 20px;
+    background-color: blue;
+    border-color: black;
+}
+.caixa-d{
+    margin-right: 25%;
+}
+.bar-inicial{
+    padding: 0%;
+    background-color: #b34747;
+    text-align: center; 
+}
+.corpo-0{
+    margin: 0%; 
+}
+.espaço{
+    display: inline-block;
+    outline: none;
+    font-family: fantasy;
+}
+.logo{
+    padding: 10px;
+    width: 60px;
+}
+.texto1{
+    margin: 30px;
+    padding: 10px;
+    background-color: #d4d4d4;
+    border-radius: 15px;
+}
+.font1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-block-start: 0%;
+}
+.font2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.texto2{
+    position: relative;
+    margin: 30px;
+    padding: 10px;
+    background-color: #e4b0b0;
+    border-radius: 15px;
+    float: left;
+    width: 650px;
+    height: 400px;
+}
+.texto4{
+    margin: 30px;
+    padding: 10px;
+    background-color: #272727;
+    border-radius: 15px;
+    float: right;
+}
+.texto3{
+    margin: 30px;
+    padding: 10px;
+    background-color: #c1ffbc;
+    border-radius: 15px;
+    float: left;
+    width: 650px;
+    height: 400px;
+}
