@@ -56,6 +56,12 @@ button{
 .font2{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.fonte3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.font4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .texto2{
     position: relative;
     margin: 30px;
@@ -66,12 +72,19 @@ button{
     width: 650px;
     height: 400px;
 }
-.texto4{
+.textod{
     margin: 30px;
     padding: 10px;
     background-color: #272727;
     border-radius: 15px;
     float: right;
+}
+.textoe{
+    margin: 30px;
+    padding: 10px;
+    background-color: #272727;
+    border-radius: 15px;
+    float: left;
 }
 .texto3{
     margin: 30px;
